@@ -1,0 +1,2 @@
+"""Local deterministic repository fixtures."""
+

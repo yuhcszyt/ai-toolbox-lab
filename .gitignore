@@ -1,0 +1,19 @@
+# Local secrets and environment files
+.env
+.env.*
+!.env.example
+
+# Python environments, caches, and build outputs
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.egg-info/
+build/
+dist/
+
+# Local IDE metadata
+.idea/
+
+# Generated skill archives
+yu-dev-*.zip
